@@ -1,8 +1,8 @@
-ssh less fbset sudo psmisc strace ed ncdu
+ssh sudo psmisc 
 console-setup keyboard-configuration
 avahi-daemon
 ca-certificates curl
-fake-hwclock nfs-common usbutils
+fake-hwclock usbutils
 dphys-swapfile
 raspberrypi-sys-mods
 pi-bluetooth
@@ -10,9 +10,6 @@ usb-modeswitch
 libpam-chksshpwd
 rpi-update
 libmtp-runtime
-rsync
-htop
-man-db
 policykit-1
 ssh-import-id
 pciutils

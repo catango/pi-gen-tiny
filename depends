@@ -1,5 +1,6 @@
 quilt
 parted
+bmap-tools
 realpath:coreutils
 qemu-arm-static:qemu-user-static
 debootstrap
@@ -20,4 +21,3 @@ bc
 gpg
 pigz
 arch-test
-wget

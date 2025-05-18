@@ -20,4 +20,4 @@ bc
 gpg
 pigz
 arch-test
-wget
+bmap-tool
